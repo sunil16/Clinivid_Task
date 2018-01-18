@@ -13,8 +13,6 @@ To Check Output: open the file data.json
 
 ### requirments  ###
 
-import re
-
 import json
 
 ### System i used ####

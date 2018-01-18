@@ -1,5 +1,4 @@
 #!/usr/bin/python
-import re
 import json
 
 class JsonParser(object):
