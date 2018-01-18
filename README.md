@@ -14,10 +14,11 @@ To Check Output: open the file data.json
 ### requirments  ###
 
 import re
+
 import json
 
 ### System i used ####
 
 Ubuntu 16.04 LTS
-python 2.7
 
+python 2.7
